@@ -1,2 +1,2 @@
-# GHazy_Portfolio
+# Ghazy_Portfolio
 Data Science
