@@ -1,2 +1,2 @@
-# Ghazy_Portfolio
+# Data analysis & Visualization 
 Data Science
